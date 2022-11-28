@@ -1,0 +1,212 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.hero-b {
+  position: absolute;
+  background-color: white;
+  top: 25%;
+  left: 6%;
+  padding: 30px;
+  width: 450px;
+  box-sizing: 0 2px 4px rgb(0 0 0 / 8%);
+}
+.hero-b > h1 {
+  font-weight: bold;
+  font-size: 2.4rem;
+  margin-bottom: 15px;
+}
+.hero-b > P {
+  font-size: 1.5rem;
+}
+
+.section-one {
+  margin: 30px;
+}
+
+.btn {
+  padding: 5px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  border-radius: 0px;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.python-image {
+  border: 2px solid grey;
+}
+
+.aqua {
+  border: 2px solid grey;
+  padding: 30px;
+}
+
+.courses-list {
+  display: flex;
+  gap: 20px;
+  margin: 20px;
+}
+
+.broad {
+  padding-top: 20px;
+}
+
+.choose {
+  font-size: x-large;
+  font-weight: 300;
+}
+
+.number {
+  font-weight: 500;
+  font-size: 130%;
+}
+
+.star {
+  color: rgb(221, 221, 49);
+  color: rgb(196, 99, 8);
+}
+.grey {
+  color: grey;
+  font-size: medium;
+  font-weight: lighter;
+}
+
+#num {
+  text-decoration: line-through;
+  font-size: 80%;
+  font-weight: 200;
+  text-decoration: line-through;
+}
+
+.bestseller {
+  border: rgb(221, 204, 55);
+  background-color: rgb(226, 215, 110);
+  padding: 3px 5px;
+}
+
+.section-two {
+  background-color: #f4f6f4;
+  padding: 2rem;
+  margin: 4rem 0;
+}
+
+.icon-style {
+  border: 1px solid #b0b4b0;
+  background-color: #b0b4b0;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+.students-view {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-three {
+  margin: 4rem;
+}
+
+.featured-container {
+  background-color: #f4f6f4;
+  padding: 4rem 10rem 4rem 4rem;
+}
+
+.category {
+  display: flex;
+  justify-content: space-between;
+}
+
+.purple {
+  color: rgb(134, 42, 219);
+  text-decoration: underline;
+}
+
+.header {
+  text-align: center;
+}
+
+.icon-logo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-five {
+  margin: 4rem 4rem 8rem 4rem;
+}
+
+.udemy-b-logo {
+  width: 150px;
+  margin-bottom: 1rem;
+}
+
+.button {
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  border-radius: 0px;
+}
+
+#button-two {
+  background-color: black;
+  color: #fff;
+}
+
+.udemy-busy {
+  display: flex;
+  gap: 10rem;
+  margin: 4rem 0 4rem 10rem;
+}
+
+.letter-s {
+  letter-spacing: 0.1rem;
+}
+
+.instruct-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 4rem;
+}
+
+#buttonTwo {
+  background-color: black;
+  color: #fff;
+  margin-top: 15px;
+}
+
+.instructor {
+  margin: 8rem 0;
+}
+
+.globe-btn {
+  padding: 10px;
+  border: 2px solid white;
+  margin-bottom: 20px;
+  border-radius: 0px;
+  color: white;
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 3rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.footer-logo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5rem;
+  font-weight: lighter;
+}
