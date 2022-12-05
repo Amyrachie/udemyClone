@@ -1,6 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
+  box-sizing: border-box;
 }
 
 .hero-b {
@@ -109,9 +110,8 @@
 }
 
 .section-three {
-  margin: 4rem;
+  margin: 2rem;
 }
-
 .featured-container {
   background-color: #f4f6f4;
   padding: 4rem 10rem 4rem 4rem;
